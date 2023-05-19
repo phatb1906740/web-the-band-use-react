@@ -1,0 +1,28 @@
+.slider {
+    padding-top: 46.5px;
+    padding-bottom: 50%;
+    background-image: url("../assets/img/Slider/chicago.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+    .slider-content {
+        padding: 32px 16px;
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        color: #fff;
+        text-align: center;
+
+        .title {
+            margin: 10px;
+            font-size: 24px;
+            font-weight: 400;
+        }
+
+        .content {
+            font-weight: 600;
+        }
+    }
+}

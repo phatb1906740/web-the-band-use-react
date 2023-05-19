@@ -1,0 +1,86 @@
+.tour {
+
+    .tour-container {
+        background-color: #fff;
+
+        .tour-item {
+            position: relative;
+            border-bottom: 1px solid #ddd;
+            padding: 8px 16px;
+            list-style-type: none;
+            color: #757575;
+
+            .sold-out {
+                display: inline-block;
+                margin-left: 16px;
+                padding: 0 8px;
+                background-color: #f44336;
+                color: #fff;
+            }
+
+            .quantity {
+                position: absolute;
+                top: 50%;
+                right: 16px;
+                transform: translateY(-50%);
+                width: 22px;
+                height: 22px;
+                border-radius: 50%;
+                background-color: #000;
+                color: #fff;
+                text-align: center;
+            }
+        }
+    }
+
+    .place-container {
+        display: flex;
+        margin: 0 -16px;
+        padding: 32px 8px;
+
+        .place-item {
+            padding: 0 8px;
+            flex: 1;
+
+            img {
+                display: block;
+                width: 100%;
+            }
+
+            .content-container {
+                padding: 0 16px;
+                background-color: #fff;
+                color: #000;
+
+                .content-title {
+                    display: inline-block;
+                    margin: 16px 0;
+                    font-weight: 600;
+                }
+
+                .content-date {
+                    margin-bottom: 16px;
+                    opacity: 0.6;
+                }
+
+                .content {
+                    margin-bottom: 16px;
+                }
+
+                .ticket-btn {
+                    margin-bottom: 16px;
+                    border: none;
+                    padding: 8px 16px;
+                    background-color: #000;
+                    color: #fff;
+                }
+
+                .ticket-btn:hover {
+                    background-color: #757575;
+                    color: #000;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}
