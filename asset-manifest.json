@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/web-the-band-use-react/static/css/main.47c5e6c1.css",
+    "main.js": "/web-the-band-use-react/static/js/main.0c23452e.js",
+    "static/media/map.jpg": "/web-the-band-use-react/static/media/map.f164b4bdad91e4ceeac8.jpg",
+    "static/media/newyork.jpg": "/web-the-band-use-react/static/media/newyork.b1dc0f216fa01bd147ff.jpg",
+    "static/media/chicago.jpg": "/web-the-band-use-react/static/media/chicago.3f06c0720d859aa67c95.jpg",
+    "static/media/paris.jpg": "/web-the-band-use-react/static/media/paris.5ea39f78e2aff3742d38.jpg",
+    "static/media/sanfran.jpg": "/web-the-band-use-react/static/media/sanfran.b00af96eac786d56831e.jpg",
+    "index.html": "/web-the-band-use-react/index.html",
+    "main.47c5e6c1.css.map": "/web-the-band-use-react/static/css/main.47c5e6c1.css.map",
+    "main.0c23452e.js.map": "/web-the-band-use-react/static/js/main.0c23452e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47c5e6c1.css",
+    "static/js/main.0c23452e.js"
+  ]
+}
